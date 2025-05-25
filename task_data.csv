@@ -1,0 +1,4 @@
+timestamp,task_name,success,duration_seconds,notes
+2025-05-25 13:31:04,Task 1: Example Task,No,2.4039809703826904,Test
+2025-05-25 13:38:18,Task 1: Example Task,Partial,1.813697099685669,Test
+2025-05-25 13:39:04,Task 1: Example Task,Yes,4.643924951553345,Test
